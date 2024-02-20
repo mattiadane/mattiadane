@@ -3,4 +3,4 @@
     Studying informatics at University of Verona.
 
     For information, collaborations, contact: 
-    [mattia.danese04@gmail.com]
+    mattia.danese04@gmail.com
